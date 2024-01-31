@@ -48,7 +48,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#"><img src={navIcon1} alt="" /></a>
+                <a href="https://t.me/developer_23_05"><img src={navIcon1} alt="" /></a>
               </div>
               <a href='https://t.me/projects_by_dilyorbek'>
                 <button className="vvd" style={{borderRadius:"20px"}}><span>All Projects</span></button>
